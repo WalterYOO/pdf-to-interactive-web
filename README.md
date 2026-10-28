@@ -32,7 +32,7 @@ skills/pdf-to-interactive-web/
 ├── SKILL.md                      主流程：定范围 → 定读法 → 事实账本 → 结构 → 风格 → 页面 → 自检
 ├── references/
 │   ├── reading-modes.md          5 种读法：叙事、概念、查读、数据、论证，各自的骨架和交互
-│   ├── style-presets.md          8 种风格预设，以及只用系统字体的字体栈
+│   ├── style-presets.md          12 种风格预设，以及只用系统字体的字体栈
 │   ├── page-contract.md          页面规范：出处角标、回到原处、先猜再看、阅读进度
 │   ├── fidelity-checklist.md     准确性自检：实测中出现过的 9 类转述错误
 │   └── prompt-standalone.md      给不能装 Skill 的网页聊天用的独立提示词
